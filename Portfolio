@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang="en"><!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+</body>
+</html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio Website</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/locomotive-scroll@3.5.4/dist/locomotive-scroll.css">
+    <link href="https://cdn.jsdelivr.net/npm/remixicon@3.5.0/fonts/remixicon.css" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <div id="main">
+
+        <!-- Page 1 -->
+
+        <div id="page1" data-scroll-section>
+            <nav>
+                <div class="nav-left">
+                    <h1>Shubham Birajdar</h1>
+                </div>
+                <div id="nav-r" class="nav-right okk">
+                    <a href="#">About</a>
+                    <a href="#">Skills</a>
+                    <a href="#">Projects</a>
+                    <a href="#">Contact</a>
+                   
+                </div>
+                <i id="nav-i" class="ri-menu-line"></i>
+            </nav>
+
+            <div class="page1-hero">
+                <div class="page1-left">
+                    <img src="IMG.jpeg" alt="">
+                </div>
+                <div class="page1-right">
+                    <p>Hello I`m</p>
+                    <h1>Shubham Birajdar</h1>
+                    <h2>Web Developer (Wordpress)</h2>
+                    <div class="social-icon">
+                        <a href=https://www.linkedin.com/in/shubham-birajdar-679501211><i class="ri-linkedin-box-fill"></i></a>
+                        <a href=https://github.com/848502/shubhamProgram><i class="ri-github-fill"></i></a>
+                        <a href="https://www.instagram.com/ajay._.2772/"><i class="ri-instagram-fill"></i></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Page 2 -->
+
+        <div id="page2" data-scroll-section>
+            <div class="about">
+                <div class="about-heading">
+                    <h1>About Me</h1>
+                </div>
+                <div class="about-cards">
+                    <div class="card">
+                        <i class="ri-award-fill"></i>
+                        <h3>Experience</h3>
+                        <p>1 YEAR</p>
+                        <p>Web Developer</p>
+                    </div>
+                    <div class="card">
+                        <i class="ri-user-star-fill"></i>
+                        <h3>Education</h3>
+                        <p>BBA (CA)</p>
+                        <p>Bachelor of Computer Applications.</p>
+                    </div>
+                </div>
+                <p class="about-p">Dedicated WordPress Developer in Cleverex Technology PVT. LTD Limited with overall (1.8 years) of experience & having Good knowledge of plugins,
+                    themes, elementor builder and all the word press contents </p>
+            </div>
+
+            <div class="skills">
+                <h1>Skills</h1>
+                <div class="frontend-skills">
+                    <h2>Frontend Development</h2>
+                    <div class="skill-cards">
+                        <div class="skill-card">
+                            <i class="ri-checkbox-circle-fill"></i>
+                            <h4>HTML</h4>
+                        </div>
+                        <div class="skill-card">
+                            <i class="ri-checkbox-circle-fill"></i>
+                            <h4>CSS</h4>
+                        </div>
+                        <div class="skill-card">
+                            <i class="ri-checkbox-circle-fill"></i>
+                            <h4>Wordpress</h4>
+                        </div>
+                        <div class="skill-card">
+                            <i class="ri-checkbox-circle-fill"></i>
+                            <h4>Theme</h4>
+                        </div>
+                        <div class="skill-card">
+                            <i class="ri-checkbox-circle-fill"></i>
+                            <h4>Woedpress development</h4>
+                        </div>
+                        <div class="skill-card">
+                            <i class="ri-checkbox-circle-fill"></i>
+                            <h4>Theme Customization</h4>
+                        </div>
+                        <div class="skill-card">
+                            <i class="ri-checkbox-circle-fill"></i>
+                            <h4>Plugin Development</h4>
+                        </div>
+                        <div class="skill-card">
+                            <i class="ri-checkbox-circle-fill"></i>
+                            <h4>Responsive Web Design</h4>
+                        </div>
+                        <div class="skill-card">
+                            <i class="ri-checkbox-circle-fill"></i>
+                            <h4>Version Control</h4>
+                        </div>
+                        <div class="skill-card">
+                            <i class="ri-checkbox-circle-fill"></i>
+                            <h4>Jira Tool</h4>
+                        </div>
+                        <div class="skill-card">
+                            <i class="ri-checkbox-circle-fill"></i>
+                            <h4>SEO</h4>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+                    
+        <div class="skill-card">
+            <i class="ri-checkbox-circle-fill"></i>
+            <h4>Plugin Development</h4>
+        </div>
+        <!-- Page 3 -->
+
+        <div id="page3" data-scroll-section>
+            <div class="project-heading">
+                <h1>Projects</h1>
+            </div>
+            <div class="project-cards">
+                <div class="project-card">
+                    <img src="https://www.yewaleamruttulya.com/images/banner/banner3.png" alt="">
+                    <h2>yewale Website</h2>
+                    <a href=https://www.yewaleamruttulya.com> <button>Website <i
+                                class="ri-arrow-right-up-line"></i></button></a>
+                </div>
+                <div class="project-card">
+                    <img src="https://www.ekko-wp.com/wp-content/uploads/sites/3/2019/04/restaurant10.jpg" alt="">
+                    <h2>Ekko Website</h2>
+                    <a href="https://www.ekko-wp.com/restaurant/"><button>Website <i
+                                class="ri-arrow-right-up-line"></i></button></a>
+                </div>
+                <div class="project-card">
+                    <img src="https://goodlayers.b-cdn.net/recibo/gold/wp-content/uploads/2013/11/chef-3-400x300.jpg" alt="">
+                    <h2>Recido Website</h2>
+                    <a href="https://demo.goodlayers.com/recibo/gold"><button>Website <i
+                                class="ri-arrow-right-up-line"></i></button></a>
+                </div>
+            </div>
+            <div class="project-contact">
+                <h1>Contact Me</h1>
+                <div class="contact-card">
+                    <a href="https://www.linkedin.com/in/shubham-birajdar-679501211"><i class="ri-linkedin-box-fill"></i></a>
+                    <a href="https://github.com/848502/shubhamProgram"><i class="ri-github-fill"></i></a>
+                    <a href="https://www.instagram.com/ajay._.2772/"><i class="ri-instagram-fill"></i></a>
+                </div>
+            </div>
+            <p>Copyright <i class="ri-copyright-line"></i> 2023 Shubham Birajdar. All Rights Reserved</p>
+        </div>
+
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/locomotive-scroll@3.5.4/dist/locomotive-scroll.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/gsap.min.js"
+        integrity="sha512-16esztaSRplJROstbIIdwX3N97V1+pZvV33ABoG1H2OyTttBxEGkTsoIVsiP1iaTtM8b3+hu2kB6pQ4Clr5yug=="
+        crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/ScrollTrigger.min.js"
+        integrity="sha512-Ic9xkERjyZ1xgJ5svx3y0u3xrvfT/uPkV99LBwe68xjy/mGtO+4eURHZBW2xW4SZbFrF1Tf090XqB+EVgXnVjw=="
+        crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="script.js"></script>
+</body>
+
+</html>
